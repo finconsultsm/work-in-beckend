@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/finconsultsm/",
+    "build": "vite build --base=/work-in-beckend/",
     "preview": "vite preview"
   },
   "devDependencies": {
